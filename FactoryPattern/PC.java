@@ -1,3 +1,5 @@
+package FactoryPattern;
+
 public class PC extends Computer {
 
     private String ram;

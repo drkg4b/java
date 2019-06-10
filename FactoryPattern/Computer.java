@@ -1,6 +1,8 @@
+package FactoryPattern;
+
 public abstract class Computer {
 
-    public abstract String gerRAM();
+    public abstract String getRAM();
 
     public abstract String getHDD();
 
